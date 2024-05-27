@@ -1,0 +1,16 @@
+.container {
+  background-color: #8496a9;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  align-content: center;
+}
+.card {
+  background-color: #8496a9;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  align-content: center;
+}
